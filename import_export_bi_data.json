@@ -1,0 +1,4225 @@
+{
+  "company_profile": {
+    "name": "GlobalTrade Solutions",
+    "type": "Import/Export Company",
+    "established": 2011,
+    "headquarters": "Hyderabad, India",
+    "employee_count": 5500,
+    "annual_revenue": 125000000,
+    "markets_served": [
+      "North America",
+      "Europe",
+      "Asia-Pacific",
+      "Middle East",
+      "Africa"
+    ],
+    "product_categories": [
+      "Electronics",
+      "Textiles",
+      "Industrial Equipment",
+      "Consumer Goods"
+    ]
+  },
+  "kpis": {
+    "Financial KPIs": {
+      "Revenue Growth": {
+        "value": 11.4,
+        "unit": "M USD",
+        "trend": "up",
+        "target": 15
+      },
+      "Gross Margin": {
+        "value": 28.3,
+        "unit": "%",
+        "trend": "stable",
+        "target": 30
+      },
+      "Net Profit Margin": {
+        "value": 8.7,
+        "unit": "%",
+        "trend": "up",
+        "target": 10
+      },
+      "ROI": {
+        "value": 1619.1,
+        "unit": "%",
+        "trend": "up",
+        "target": 18
+      },
+      "Cost Per Shipment": {
+        "value": 6984.33,
+        "unit": "USD",
+        "trend": "down",
+        "target": 1000
+      },
+      "Currency Exchange Impact": {
+        "value": -2.1,
+        "unit": "%",
+        "trend": "down",
+        "target": 0
+      }
+    },
+    "Operational KPIs": {
+      "On-Time Delivery Rate": {
+        "value": 81.6,
+        "unit": "%",
+        "trend": "up",
+        "target": 96
+      },
+      "Customs Clearance Time": {
+        "value": 2.3,
+        "unit": "days",
+        "trend": "down",
+        "target": 1.5
+      },
+      "Order Fill Rate": {
+        "value": 97.8,
+        "unit": "%",
+        "trend": "stable",
+        "target": 98
+      },
+      "Inventory Turnover": {
+        "value": 8.4,
+        "unit": "times/year",
+        "trend": "up",
+        "target": 10
+      },
+      "Freight Cost per Tonne": {
+        "value": 145,
+        "unit": "USD",
+        "trend": "up",
+        "target": 130
+      },
+      "Documentation Accuracy": {
+        "value": 98.5,
+        "unit": "%",
+        "trend": "stable",
+        "target": 99
+      }
+    },
+    "Strategic KPIs": {
+      "Market Share": {
+        "value": 12.8,
+        "unit": "%",
+        "trend": "up",
+        "target": 15
+      },
+      "Customer Satisfaction Score": {
+        "value": 4.2,
+        "unit": "/ 5",
+        "trend": "up",
+        "target": 4.5
+      },
+      "Supplier Performance Score": {
+        "value": 87.2,
+        "unit": "%",
+        "trend": "stable",
+        "target": 90
+      },
+      "Days Sales Outstanding": {
+        "value": 42,
+        "unit": "days",
+        "trend": "down",
+        "target": 35
+      },
+      "Lead Time": {
+        "value": 14.2,
+        "unit": "days",
+        "trend": "down",
+        "target": 12
+      },
+      "Customer Acquisition Cost": {
+        "value": 890,
+        "unit": "USD",
+        "trend": "stable",
+        "target": 750
+      }
+    }
+  },
+  "news_analysis": [
+    {
+      "headline": "Electrosurgical Generators Market Size Worth USD 3.78 Billion by 2034 Driven by Rising Chronic Diseases and Surgical Advancements",
+      "date": "2025-09-18T12:08:00Z",
+      "source": "GlobeNewswire",
+      "impact_score": 4,
+      "sentiment": 0.49,
+      "analysis_type": "Factual Report",
+      "subjectivity_score": 0.33,
+      "predicted_effects": {
+        "sales": {
+          "direction": "positive",
+          "magnitude": 3
+        },
+        "customer_behavior": {
+          "direction": "positive",
+          "magnitude": 2
+        },
+        "workflow": {
+          "direction": "neutral",
+          "magnitude": 2
+        }
+      },
+      "recommendations": [
+        "Launch a targeted marketing campaign to capitalize on positive sentiment.",
+        "Accelerate product development in related areas to gain a first-mover advantage.",
+        "Issue a press release to highlight our company's alignment with this positive trend."
+      ]
+    },
+    {
+      "headline": "Gildan Announces Participation at CIBC’s 24th Annual Eastern Institutional Investor Conference in Montreal",
+      "date": "2025-09-18T12:05:43Z",
+      "source": "Financial Post",
+      "impact_score": 3,
+      "sentiment": 0,
+      "analysis_type": "Factual Report",
+      "subjectivity_score": 0,
+      "predicted_effects": {
+        "sales": {
+          "direction": "neutral",
+          "magnitude": 2
+        },
+        "customer_behavior": {
+          "direction": "neutral",
+          "magnitude": 1
+        },
+        "workflow": {
+          "direction": "neutral",
+          "magnitude": 1
+        }
+      },
+      "recommendations": [
+        "No immediate action required, but add this to the executive watchlist.",
+        "Conduct an internal survey to gauge team awareness and sentiment on the matter.",
+        "Analyze how this development could indirectly affect adjacent markets or sectors."
+      ]
+    },
+    {
+      "headline": "Gap widens between fashion’s climate progress and global targets",
+      "date": "2025-09-18T12:01:06Z",
+      "source": "just-style.com",
+      "impact_score": 4,
+      "sentiment": 0.47,
+      "analysis_type": "Factual Report",
+      "subjectivity_score": 0,
+      "predicted_effects": {
+        "sales": {
+          "direction": "positive",
+          "magnitude": 3
+        },
+        "customer_behavior": {
+          "direction": "positive",
+          "magnitude": 2
+        },
+        "workflow": {
+          "direction": "neutral",
+          "magnitude": 2
+        }
+      },
+      "recommendations": [
+        "Evaluate potential strategic partnerships to amplify the benefits.",
+        "Consider increasing investment in this sector to maximize gains.",
+        "Brief the sales and marketing teams to leverage this news in client conversations."
+      ]
+    },
+    {
+      "headline": "Gildan Announces Participation at CIBC’s 24th Annual Eastern Institutional Investor Conference in Montreal",
+      "date": "2025-09-18T12:00:00Z",
+      "source": "GlobeNewswire",
+      "impact_score": 3,
+      "sentiment": 0,
+      "analysis_type": "Factual Report",
+      "subjectivity_score": 0,
+      "predicted_effects": {
+        "sales": {
+          "direction": "neutral",
+          "magnitude": 2
+        },
+        "customer_behavior": {
+          "direction": "neutral",
+          "magnitude": 1
+        },
+        "workflow": {
+          "direction": "neutral",
+          "magnitude": 1
+        }
+      },
+      "recommendations": [
+        "Analyze how this development could indirectly affect adjacent markets or sectors.",
+        "Monitor market trends and competitor activities related to this news.",
+        "Update internal knowledge bases and documentation with this new information."
+      ]
+    },
+    {
+      "headline": "Deep Isolation and Navarro Announce Strategic Licensing Agreement for Permanent Nuclear Waste Disposal",
+      "date": "2025-09-18T12:00:00Z",
+      "source": "GlobeNewswire",
+      "impact_score": 4,
+      "sentiment": -0.46,
+      "analysis_type": "Factual Report",
+      "subjectivity_score": 0.24,
+      "predicted_effects": {
+        "sales": {
+          "direction": "negative",
+          "magnitude": 3
+        },
+        "customer_behavior": {
+          "direction": "negative",
+          "magnitude": 2
+        },
+        "workflow": {
+          "direction": "neutral",
+          "magnitude": 2
+        }
+      },
+      "recommendations": [
+        "Increase monitoring of competitor reactions and market sentiment.",
+        "Brief legal and compliance teams on potential regulatory impacts.",
+        "Initiate the risk assessment protocol immediately to quantify potential exposure."
+      ]
+    },
+    {
+      "headline": "Medline secures prime vendor agreement with LCMC Health",
+      "date": "2025-09-18T11:59:48Z",
+      "source": "Hospitalmanagement.net",
+      "impact_score": 5,
+      "sentiment": 0.56,
+      "analysis_type": "Factual Report",
+      "subjectivity_score": 0,
+      "predicted_effects": {
+        "sales": {
+          "direction": "positive",
+          "magnitude": 4
+        },
+        "customer_behavior": {
+          "direction": "positive",
+          "magnitude": 3
+        },
+        "workflow": {
+          "direction": "neutral",
+          "magnitude": 2
+        }
+      },
+      "recommendations": [
+        "Explore opportunities for market expansion presented by this development.",
+        "Reward the teams whose work contributed to this positive outcome or aligns with this trend.",
+        "Consider increasing investment in this sector to maximize gains."
+      ]
+    },
+    {
+      "headline": "In Conversation with Håkan Agnevall, CEO, Wärtsilä",
+      "date": "2025-09-18T11:59:01Z",
+      "source": "Newsweek",
+      "impact_score": 3,
+      "sentiment": 0,
+      "analysis_type": "Factual Report",
+      "subjectivity_score": 0,
+      "predicted_effects": {
+        "sales": {
+          "direction": "neutral",
+          "magnitude": 2
+        },
+        "customer_behavior": {
+          "direction": "neutral",
+          "magnitude": 1
+        },
+        "workflow": {
+          "direction": "neutral",
+          "magnitude": 1
+        }
+      },
+      "recommendations": [
+        "Continue with current business operations while remaining vigilant.",
+        "Brief the strategic planning team on potential long-term implications.",
+        "Update internal knowledge bases and documentation with this new information."
+      ]
+    },
+    {
+      "headline": "Govt Extends MRP Declaration Deadline Till March 31 To Ease GST 2.0 Transition",
+      "date": "2025-09-18T11:41:44Z",
+      "source": "Ndtvprofit.com",
+      "impact_score": 4,
+      "sentiment": 0.37,
+      "analysis_type": "Factual Report",
+      "subjectivity_score": 0.5,
+      "predicted_effects": {
+        "sales": {
+          "direction": "positive",
+          "magnitude": 3
+        },
+        "customer_behavior": {
+          "direction": "positive",
+          "magnitude": 2
+        },
+        "workflow": {
+          "direction": "neutral",
+          "magnitude": 2
+        }
+      },
+      "recommendations": [
+        "Issue a press release to highlight our company's alignment with this positive trend.",
+        "Consider increasing investment in this sector to maximize gains.",
+        "Launch a targeted marketing campaign to capitalize on positive sentiment."
+      ]
+    },
+    {
+      "headline": "Nestle's new chairman Isla brings Zara magic to Nescafe maker's turnaround",
+      "date": "2025-09-18T11:38:31Z",
+      "source": "Yahoo Entertainment",
+      "impact_score": 3,
+      "sentiment": 0,
+      "analysis_type": "Opinion/Speculation",
+      "subjectivity_score": 0.64,
+      "predicted_effects": {
+        "sales": {
+          "direction": "neutral",
+          "magnitude": 2
+        },
+        "customer_behavior": {
+          "direction": "neutral",
+          "magnitude": 1
+        },
+        "workflow": {
+          "direction": "neutral",
+          "magnitude": 1
+        }
+      },
+      "recommendations": [
+        "Monitor market trends and competitor activities related to this news.",
+        "Continue with current business operations while remaining vigilant.",
+        "Schedule a follow-up analysis to track developments in the next quarter."
+      ]
+    }
+  ],
+  "crisis_management": {
+    "alert_levels": {
+      "green": {
+        "threshold": 3,
+        "description": "Normal operations"
+      },
+      "yellow": {
+        "threshold": 6,
+        "description": "Monitor closely"
+      },
+      "red": {
+        "threshold": 8,
+        "description": "Crisis response required"
+      }
+    },
+    "current_status": "green",
+    "active_alerts": [
+      {
+        "type": "Supply Chain",
+        "severity": "high",
+        "message": "Port strikes may affect shipments",
+        "action_required": true
+      }
+    ]
+  },
+  "predictive_insights": {
+    "sales_forecast": {
+      "next_quarter": {
+        "prediction": 8.5,
+        "confidence": 0.75,
+        "factors": [
+          "Trade agreement impact",
+          "Seasonal trends"
+        ]
+      },
+      "next_month": {
+        "prediction": 3.2,
+        "confidence": 0.85,
+        "factors": [
+          "Current order pipeline",
+          "Market conditions"
+        ]
+      }
+    },
+    "risk_assessment": {
+      "supply_chain": {
+        "risk_level": "high",
+        "probability": 0.7,
+        "impact": "medium"
+      },
+      "currency": {
+        "risk_level": "medium",
+        "probability": 0.5,
+        "impact": "high"
+      },
+      "regulatory": {
+        "risk_level": "low",
+        "probability": 0.2,
+        "impact": "low"
+      }
+    }
+  },
+  "customer_insights": {
+    "customer_segmentation": [
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 8500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 21000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 15000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 13500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 6500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 17500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 10500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 5500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 11500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 24000,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 16500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 15000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 14500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 21500,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 18500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 14000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 6000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 11000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 22500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 13000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 15500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 12500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 7000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 25000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 5000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 21000,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 15500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 7500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 14500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 25000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 5500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 24500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 15000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 18000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 5000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 16500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 12000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 10000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 24000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 15000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 11000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23000,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 7000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 15000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 10500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 25000,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 16500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 21000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 15500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 10000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 12500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 16500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 15000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 12000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 25000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 10500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 13000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 21500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 24000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 15000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 22000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 12500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 21000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 22000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 25000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 11000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21500,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 15000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 10500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 24500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 14500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 21500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 16500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 11000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 22000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 15000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 24000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 25000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 25000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 12000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 24000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 21500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 15000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 11500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 24000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 22500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 15000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 12000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 15000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 25000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 12500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 24000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 22500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 21000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 24000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 15000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 12000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 10500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 15000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 14000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 21500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 12500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 10000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 11500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 15000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 10000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 24500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 14500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 21500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 11500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 22500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 25000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 16000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 12500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 24000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 22500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 11000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 24000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 15000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 10000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 14000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 24500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 11500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 25000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 10000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 15000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 12500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 24000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 12000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 22500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 13000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 21500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9500,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 6000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 14000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13500,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 12000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 23500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 10000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 22500,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 12000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 23000,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8500,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 14500,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 20000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 3,
+        "cluster": 0
+      },
+      {
+        "x": 18000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 13000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 22000,
+        "y": 4,
+        "cluster": 3
+      },
+      {
+        "x": 7500,
+        "y": 5,
+        "cluster": 0
+      },
+      {
+        "x": 17000,
+        "y": 3,
+        "cluster": 1
+      },
+      {
+        "x": 11500,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 23500,
+        "y": 5,
+        "cluster": 3
+      },
+      {
+        "x": 8000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 19000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 14000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 20500,
+        "y": 3,
+        "cluster": 3
+      },
+      {
+        "x": 9000,
+        "y": 4,
+        "cluster": 0
+      },
+      {
+        "x": 20000,
+        "y": 5,
+        "cluster": 2
+      },
+      {
+        "x": 15000,
+        "y": 4,
+        "cluster": 1
+      },
+      {
+        "x": 21000,
+        "y": 4,
+        "cluster": 3
+      }
+    ],
+    "trade_route_analysis": {
+      "labels": [
+        "New York",
+        "London",
+        "Tokyo",
+        "Dubai",
+        "Singapore"
+      ],
+      "data": [
+        50,
+        26,
+        24,
+        24,
+        24
+      ]
+    }
+  }
+}

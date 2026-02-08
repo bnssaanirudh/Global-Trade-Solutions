@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GlobalTrade Solutions - Business Intelligence Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header__content">
+            <div class="header__brand">
+                <h1>GlobalTrade Solutions</h1>
+                <span class="header__subtitle">Business Intelligence Dashboard</span>
+            </div>
+            <div class="header__info">
+                <div class="header__datetime" id="datetime"></div>
+                <div class="header__settings">
+                    <a href="edit.html" title="Edit Dashboard Data" class="settings-link">
+                        <span class="settings-icon">⚙️</span>
+                    </a>
+                </div>
+                <div class="header__alerts">
+                    <div class="alert-indicator" id="alertIndicator">
+                        <span class="alert-dot"></span>
+                        <span class="alert-text" id="alertText">Normal</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="dashboard">
+        <!-- Sidebar Navigation -->
+        <nav class="sidebar">
+            <ul class="sidebar__menu">
+                <li class="sidebar__item">
+                    <a href="#overview" class="sidebar__link active" data-section="overview">
+                        <span class="sidebar__icon">📊</span> Overview
+                    </a>
+                </li>
+                <li class="sidebar__item">
+                    <a href="#financial" class="sidebar__link" data-section="financial">
+                        <span class="sidebar__icon">💰</span> Financial KPIs
+                    </a>
+                </li>
+                <li class="sidebar__item">
+                    <a href="#operations" class="sidebar__link" data-section="operations">
+                        <span class="sidebar__icon">⚙️</span> Operations
+                    </a>
+                </li>
+                <li class="sidebar__item">
+                    <a href="#strategic" class="sidebar__link" data-section="strategic">
+                        <span class="sidebar__icon">🎯</span> Strategic KPIs
+                    </a>
+                </li>
+                <li class="sidebar__item">
+                    <a href="#news" class="sidebar__link" data-section="news">
+                        <span class="sidebar__icon">📰</span> News Analysis
+                    </a>
+                </li>
+                <!-- NEW SIDEBAR ITEM FOR CUSTOMER INSIGHTS -->
+                <li class="sidebar__item">
+                    <a href="#customer-insights" class="sidebar__link" data-section="customer-insights">
+                        <span class="sidebar__icon">👥</span> Customer Insights
+                    </a>
+                </li>
+                <li class="sidebar__item">
+                    <a href="#crisis" class="sidebar__link" data-section="crisis">
+                        <span class="sidebar__icon">🚨</span> Crisis Management
+                    </a>
+                </li>
+                <li class="sidebar__item">
+                    <a href="#predictions" class="sidebar__link" data-section="predictions">
+                        <span class="sidebar__icon">🔮</span> Predictions
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Overview Section -->
+            <section id="overview-section" class="section active">
+                <div class="section__header">
+                    <h2>Company Overview</h2>
+                    <p>Key metrics and status at a glance</p>
+                </div>
+                <div class="overview-grid">
+                    <div class="company-profile card"><div class="card__body"><h3>Company Profile</h3><div class="profile-details" id="companyProfile"></div></div></div>
+                    <div class="key-metrics card"><div class="card__body"><h3>Key Metrics</h3><div class="metrics-grid" id="keyMetrics"></div></div></div>
+                    <div class="quick-news card"><div class="card__body"><h3>Recent News Headlines</h3><div class="news-list" id="quickNews"></div></div></div>
+                    <div class="predictions-summary card"><div class="card__body"><h3>Predictions Summary</h3><div class="predictions-overview" id="predictionsOverview"></div></div></div>
+                </div>
+            </section>
+
+            <!-- Financial KPIs Section -->
+            <section id="financial-section" class="section">
+                <div class="section__header"><h2>Financial KPIs</h2><p>Monitor financial performance and targets</p></div>
+                <div class="kpis-grid" id="financialKPIs"></div>
+                <div class="charts-container"><div class="chart-card card"><div class="card__body"><h3>Financial Trends</h3><div class="chart-container" style="position: relative; height: 300px;"><canvas id="financialChart"></canvas></div></div></div></div>
+            </section>
+
+            <!-- Operations KPIs Section -->
+            <section id="operations-section" class="section">
+                <div class="section__header"><h2>Operational KPIs</h2><p>Track operational efficiency and performance</p></div>
+                <div class="kpis-grid" id="operationalKPIs"></div>
+                <div class="charts-container"><div class="chart-card card"><div class="card__body"><h3>Operational Trends</h3><div class="chart-container" style="position: relative; height: 300px;"><canvas id="operationalChart"></canvas></div></div></div></div>
+            </section>
+
+            <!-- Strategic KPIs Section -->
+            <section id="strategic-section" class="section">
+                <div class="section__header"><h2>Strategic KPIs</h2><p>Monitor strategic objectives and market position</p></div>
+                <div class="kpis-grid" id="strategicKPIs"></div>
+                <div class="charts-container"><div class="chart-card card"><div class="card__body"><h3>Strategic Performance</h3><div class="chart-container" style="position: relative; height: 300px;"><canvas id="strategicChart"></canvas></div></div></div></div>
+            </section>
+
+            <!-- News Analysis Section -->
+            <section id="news-section" class="section">
+                <div class="section__header"><h2>News Analysis</h2><p>Market intelligence and impact predictions</p></div>
+                <div class="news-analysis" id="newsAnalysis"></div>
+            </section>
+
+            <!-- NEW CUSTOMER INSIGHTS SECTION -->
+            <section id="customer-insights-section" class="section">
+                <div class="section__header">
+                    <h2>Customer Insights (ML-Powered)</h2>
+                    <p>Segmentation and behavior analysis from customer data</p>
+                </div>
+                <div class="insights-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem;">
+                    <div class="chart-card card">
+                        <div class="card__body">
+                            <h3>Customer Segmentation</h3>
+                            <p style="font-size: 0.875rem; color: #6b7280; margin-bottom: 1rem;">Value vs. Satisfaction (K-Means Clustering)</p>
+                            <div class="chart-container" style="position: relative; height: 350px;">
+                                <canvas id="customerSegmentChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="chart-card card">
+                         <div class="card__body">
+                            <h3>Popular Export Routes</h3>
+                            <p style="font-size: 0.875rem; color: #6b7280; margin-bottom: 1rem;">Top 5 Destinations from Mumbai</p>
+                            <div class="chart-container" style="position: relative; height: 350px;">
+                                <canvas id="tradeRouteChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Crisis Management Section -->
+            <section id="crisis-section" class="section">
+                <div class="section__header"><h2>Crisis Management</h2><p>Monitor alerts and emergency response</p></div>
+                <div class="crisis-dashboard" id="crisisDashboard"></div>
+            </section>
+
+            <!-- Predictions Section -->
+            <section id="predictions-section" class="section">
+                <div class="section__header"><h2>Predictions & Forecasts</h2><p>Future outlook and risk assessment</p></div>
+                <div class="predictions-grid">
+                    <div class="forecast-card card"><div class="card__body"><h3>Sales Forecast</h3><div class="forecast-content" id="salesForecast"></div></div></div>
+                    <div class="risk-card card"><div class="card__body"><h3>Risk Assessment</h3><div class="risk-content" id="riskAssessment"></div></div></div>
+                    <div class="chart-card card"><div class="card__body"><h3>Predictive Analytics</h3><div class="chart-container" style="position: relative; height: 300px;"><canvas id="predictiveChart"></canvas></div></div></div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
+
